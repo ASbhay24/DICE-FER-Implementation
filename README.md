@@ -154,6 +154,6 @@ DICE-FER-Implementation/
 
 <div align="center">
 
-*EE656 · IIT Kanpur · 2024–25*
+*EE656 · IIT Kanpur · 2025–26*
 
 </div>
