@@ -3,7 +3,7 @@
 # 🎭 DICE-FER
 ### Decoupling Identity Confounders for Enhanced Facial Expression Recognition
 
-*Course Project — EE656, IIT Kanpur | Abhay Shukla (240027)*
+*Course Project — EE656, IIT Kanpur *
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZEXMLnACMYqn0OpVh-RgCO86aiOxnCl4?usp=sharing)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c?logo=pytorch&logoColor=white)
